@@ -1,2 +1,2 @@
 # ChessGame
-Culminating for ICS4U - Working chess game GUI
+ICS4U1 objects/hierarchies project
